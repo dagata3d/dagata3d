@@ -10,7 +10,7 @@ I'm a Junior DevOps Engineer passionate about automating build systems, streamli
 
 ### 🚀 Current Focus:
 * Diving into Bazel for advanced, scalable build automation.
-* Developing custom CLI tools (like `boa_create_makefile.py`) to streamline development workflows.
+* Developing custom CLI tools to streamline development workflows.
 * Managing artifacts and refining automated testing pipelines.
 
 ### 📫 How to reach me:
