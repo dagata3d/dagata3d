@@ -50,9 +50,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dagata3d&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&v=1" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=dagata3d&theme=github_dark_dimmed&hide_border=true&background=0D1117&v=1" width="48%" />
-</div>### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dagata3d&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&v=1" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=dagata3d&theme=github_dark_dimmed&hide_border=true&background=0D1117&v=1" width="48%" />
 </div>
