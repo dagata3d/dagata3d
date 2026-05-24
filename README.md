@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Zdravko! 👋</h1>
+<h1 align="center">Hi there, I'm Dagata!
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=A9B2C3&center=true&vCenter=true&width=600&lines=Junior+DevOps+Engineer;Automating+Build+Systems;Procedural+Generation+Enthusiast;Exploring+Bazel+%26+Go" alt="Typing SVG" />
@@ -48,6 +48,11 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dagata3d&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dagata3d&theme=github_dark_dimmed&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dagata3d&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&v=1" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=dagata3d&theme=github_dark_dimmed&hide_border=true&background=0D1117&v=1" width="48%" />
+</div>### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dagata3d&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&v=1" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=dagata3d&theme=github_dark_dimmed&hide_border=true&background=0D1117&v=1" width="48%" />
 </div>
