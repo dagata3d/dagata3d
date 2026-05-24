@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Dagata 👋
 
-<!--
-**dagata3d/dagata3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior DevOps Engineer passionate about automating build systems, streamlining CI/CD pipelines, and exploring procedural generation.
 
-Here are some ideas to get you started:
+### 🛠️ What I'm working with right now:
+* **Build Systems & Automation:** Gradle, GitHub Actions (and currently exploring Bazel!)
+* **Languages:** Python, Go, Ruby, Bash
+* **Environments:** Linux (Ubuntu, Red Hat), macOS
+* **Creative Tech:** Houdini (PDG networks), 3ds Max
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus:
+* Diving into Bazel for advanced, scalable build automation.
+* Developing custom CLI tools (like `boa_create_makefile.py`) to streamline development workflows.
+* Managing artifacts and refining automated testing pipelines.
+
+### 📫 How to reach me:
+* [LinkedIn](https://www.linkedin.com/in/zdravko-rangelov-04b37672/)
+
+---
+<!-- Dynamic stat card for your profile -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dagata3d&show_icons=true&theme=radical)
